@@ -1,0 +1,39 @@
+h1{
+  color: #609916;
+  text-align: center;
+}
+h2{
+  color: #006098;
+}
+h4{
+  color: yellow;
+}
+p a{
+  color: red;
+}
+body{
+  background-image: url("../images/final.jpeg");
+  text-align: center;
+  border-left: #000050 12px;
+  border-right: solid pink 12px;
+  padding: 8px;
+}
+p{
+  color: yellow;
+}
+ul li .exam{
+  color: green;
+}
+ul{
+  align-items: center;
+  color: #ccffff;
+}
+li{
+  color: #ccffff;
+}
+.Hobbies{
+  color: #ccffff;
+}
+h4{
+  color: #006098;
+}
