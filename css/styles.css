@@ -28,9 +28,11 @@ ul li .exam{
 ul{
   align-items: center;
   color: #ccffff;
+    list-style-type: none;
 }
 li{
   color: #ccffff;
+  list-style-type: none;
 }
 .Hobbies{
   color: #ccffff;
