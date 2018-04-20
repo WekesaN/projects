@@ -15,8 +15,8 @@ p a{
 body{
   background-image: url("../images/final.jpeg");
   text-align: center;
-  border-left: #000050 12px;
-  border-right: solid pink 12px;
+  border-left: #e6e6ff 12px;
+  border-right: #e6e6ffff 12px;
   padding: 8px;
 }
 p{
